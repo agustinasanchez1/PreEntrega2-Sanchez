@@ -6,18 +6,17 @@
     text-align: center;
     margin: 20px;
     height: 100%;
-  }
-  
-  .item-link {
+}
+
+.item-link {
     text-align: center;
     text-decoration: none;
     color: inherit;
-  }
-  
-  .item-image {
+}
+
+.item-image {
     width: 100px;
     height: 100px;
     object-fit: cover;
     margin-bottom: 10px;
-  }
-  
+}
