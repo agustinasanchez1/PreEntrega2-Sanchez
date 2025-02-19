@@ -1,8 +1,3 @@
-# React + Vite
+TINI-GAMES es una aplicación de e-commerce donde los usuarios pueden explorar y comprar una variedad de videojuegos. La aplicación permite a los usuarios visualizar productos, añadirlos a un carrito de compras, e ingresar sus datos.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Mi enfoque principal fue el de crear una aplicación similar a otras ya existentes donde puedan tener la libertad de elegir qué juegos desean comprar y tengan más facilidad a la hora de adquirirlos.
